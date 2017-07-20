@@ -106,5 +106,5 @@ class LauncherForMobile():
 
 if __name__ == "__main__":
     lanunch = LauncherForMobile();
-    lanunch.showSomeBlogs("https://weibo.cn/u/1971787603", "/Users/lichao/Desktop/weibo/cookie/cookie.txt",
+    lanunch.showSomeBlogs("https://weibo.cn/u/id", "/Users/lichao/Desktop/weibo/cookie/cookie.txt",
                           "/Users/lichao/Desktop/weibo/result.json");
